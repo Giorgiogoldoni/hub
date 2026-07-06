@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T20:21:00.565710+00:00",
-  "total": 32,
+  "generated_at": "2026-07-06T20:30:22.029395+00:00",
+  "total": 33,
   "repos": [
     {
       "name": "bond",
@@ -8,15 +8,15 @@
       "url": "https://giorgiogoldoni.github.io/bond/",
       "repo_url": "https://github.com/Giorgiogoldoni/bond",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T18:25:11Z"
     },
     {
       "name": "chart",
-      "description": "analisi etf",
+      "description": "analisi etf ",
       "url": "https://giorgiogoldoni.github.io/chart/",
       "repo_url": "https://github.com/Giorgiogoldoni/chart",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T18:25:58Z"
     },
     {
       "name": "compass",
@@ -24,7 +24,7 @@
       "url": "https://giorgiogoldoni.github.io/compass/",
       "repo_url": "https://github.com/Giorgiogoldoni/compass",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-03T22:32:59Z"
     },
     {
       "name": "etp",
@@ -32,15 +32,15 @@
       "url": "https://giorgiogoldoni.github.io/etp/",
       "repo_url": "https://github.com/Giorgiogoldoni/etp",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-04T00:05:06Z"
     },
     {
       "name": "FACTOR",
-      "description": "ETF FACTOR",
+      "description": "ETF FACTOR ",
       "url": "https://giorgiogoldoni.github.io/FACTOR/",
       "repo_url": "https://github.com/Giorgiogoldoni/FACTOR",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-03T23:05:55Z"
     },
     {
       "name": "fixed",
@@ -48,7 +48,15 @@
       "url": "https://giorgiogoldoni.github.io/fixed/",
       "repo_url": "https://github.com/Giorgiogoldoni/fixed",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T19:03:46Z"
+    },
+    {
+      "name": "hub",
+      "description": "Home Page",
+      "url": "https://giorgiogoldoni.github.io/hub/",
+      "repo_url": "https://github.com/Giorgiogoldoni/hub",
+      "has_pages": true,
+      "updated_at": "2026-07-06T20:29:10Z"
     },
     {
       "name": "min-finder",
@@ -56,31 +64,31 @@
       "url": "https://giorgiogoldoni.github.io/min-finder/",
       "repo_url": "https://github.com/Giorgiogoldoni/min-finder",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T17:44:15Z"
     },
     {
       "name": "MONITOR",
-      "description": "MONITORAGGIO ETF MULTIASSET",
+      "description": "MONITORAGGIO ETF MULTIASSET ",
       "url": "https://giorgiogoldoni.github.io/MONITOR/",
       "repo_url": "https://github.com/Giorgiogoldoni/MONITOR",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T12:10:35Z"
     },
     {
       "name": "portafoglio",
-      "description": "oracolo",
+      "description": "oracolo ",
       "url": "https://giorgiogoldoni.github.io/portafoglio/",
       "repo_url": "https://github.com/Giorgiogoldoni/portafoglio",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T18:24:55Z"
     },
     {
       "name": "radar-eventicf",
-      "description": "ricerca eventi",
+      "description": "ricerca eventi ",
       "url": "https://giorgiogoldoni.github.io/radar-eventicf/",
       "repo_url": "https://github.com/Giorgiogoldoni/radar-eventicf",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T10:14:47Z"
     },
     {
       "name": "radar-flux",
@@ -88,7 +96,7 @@
       "url": "https://giorgiogoldoni.github.io/radar-flux/",
       "repo_url": "https://github.com/Giorgiogoldoni/radar-flux",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-04-25T16:21:27Z"
     },
     {
       "name": "raptor",
@@ -96,7 +104,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T18:50:52Z"
     },
     {
       "name": "raptor-alert",
@@ -104,7 +112,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-alert/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-alert",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T18:26:56Z"
     },
     {
       "name": "raptor-commad",
@@ -112,7 +120,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-commad/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-commad",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-04-28T14:53:30Z"
     },
     {
       "name": "raptor-geografia",
@@ -120,7 +128,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-geografia/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-geografia",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T18:26:57Z"
     },
     {
       "name": "raptor-leva",
@@ -128,7 +136,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-leva/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-leva",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T19:16:31Z"
     },
     {
       "name": "raptor-one",
@@ -136,7 +144,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-one/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-one",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T18:56:02Z"
     },
     {
       "name": "raptor-portafoglio",
@@ -144,7 +152,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-portafoglio/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-portafoglio",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-04T06:14:11Z"
     },
     {
       "name": "raptor-ranking",
@@ -152,7 +160,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-ranking/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-ranking",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T19:04:21Z"
     },
     {
       "name": "raptor-scanner",
@@ -160,7 +168,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-scanner/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-scanner",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T16:55:56Z"
     },
     {
       "name": "raptor-settoriali",
@@ -168,7 +176,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-settoriali/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-settoriali",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T18:13:06Z"
     },
     {
       "name": "raptor-signal",
@@ -176,15 +184,15 @@
       "url": "https://giorgiogoldoni.github.io/raptor-signal/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-signal",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T16:50:58Z"
     },
     {
       "name": "raptor-tematici",
-      "description": "analisi tematici",
+      "description": "analisi tematici ",
       "url": "https://giorgiogoldoni.github.io/raptor-tematici/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-tematici",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T18:13:44Z"
     },
     {
       "name": "raptor-two",
@@ -192,7 +200,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-two/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-two",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T20:16:56Z"
     },
     {
       "name": "raptor-wealth-meridian",
@@ -200,15 +208,15 @@
       "url": "https://giorgiogoldoni.github.io/raptor-wealth-meridian/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-wealth-meridian",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-03T20:50:53Z"
     },
     {
       "name": "RAPTOR_SCENARIO_ENGINE",
-      "description": "PREVISIONE SCENARI",
+      "description": "PREVISIONE SCENARI ",
       "url": "https://giorgiogoldoni.github.io/RAPTOR_SCENARIO_ENGINE/",
       "repo_url": "https://github.com/Giorgiogoldoni/RAPTOR_SCENARIO_ENGINE",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T16:53:27Z"
     },
     {
       "name": "scannerv2",
@@ -216,7 +224,7 @@
       "url": "https://giorgiogoldoni.github.io/scannerv2/",
       "repo_url": "https://github.com/Giorgiogoldoni/scannerv2",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-03T23:36:14Z"
     },
     {
       "name": "sniper",
@@ -224,7 +232,7 @@
       "url": "https://giorgiogoldoni.github.io/sniper/",
       "repo_url": "https://github.com/Giorgiogoldoni/sniper",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T18:24:43Z"
     },
     {
       "name": "stoxx600",
@@ -232,7 +240,7 @@
       "url": "https://giorgiogoldoni.github.io/stoxx600/",
       "repo_url": "https://github.com/Giorgiogoldoni/stoxx600",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T14:39:09Z"
     },
     {
       "name": "strategy",
@@ -240,7 +248,7 @@
       "url": "https://giorgiogoldoni.github.io/strategy/",
       "repo_url": "https://github.com/Giorgiogoldoni/strategy",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-03T22:59:58Z"
     },
     {
       "name": "trader",
@@ -248,7 +256,7 @@
       "url": "https://giorgiogoldoni.github.io/trader/",
       "repo_url": "https://github.com/Giorgiogoldoni/trader",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-04T06:14:11Z"
     },
     {
       "name": "wheat",
@@ -256,7 +264,7 @@
       "url": "https://giorgiogoldoni.github.io/wheat/",
       "repo_url": "https://github.com/Giorgiogoldoni/wheat",
       "has_pages": true,
-      "updated_at": null
+      "updated_at": "2026-07-06T09:35:41Z"
     }
   ]
 }
