@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🦅 RAPTOR Hub — Tutti i repository</title>
+<style>
+:root{
+  --bg:#ffffff;--card:#fff;--border:#dde3ec;--accent:#e07b00;
+  --blue:#1a6fcf;--text:#1a2332;--muted:#6b7c93;--shadow:0 1px 4px rgba(0,0,0,.07);
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
+
+header{padding:28px 22px 18px;border-bottom:1px solid var(--border);position:sticky;top:0;background:#fff;z-index:10;}
+header h1{font-size:22px;font-weight:700;display:flex;align-items:center;gap:10px;}
+header p{font-size:12px;color:var(--muted);margin-top:4px;letter-spacing:.3px;}
+
+.toolbar{display:flex;align-items:center;gap:10px;margin-top:16px;flex-wrap:wrap;}
+#search{flex:1;min-width:220px;padding:9px 14px;border:1px solid var(--border);border-radius:8px;font-size:13px;color:var(--text);outline:none;}
+#search:focus{border-color:var(--blue);}
+#count{font-size:12px;color:var(--muted);white-space:nowrap;}
+#updated{font-size:10px;color:var(--muted);white-space:nowrap;}
+
+main{padding:20px 22px 40px;max-width:1200px;margin:0 auto;}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;}
+
+.card{background:#fff;border:1px solid var(--border);border-radius:10px;padding:15px 16px;text-decoration:none;color:inherit;display:block;transition:all .14s;position:relative;box-shadow:var(--shadow);}
+.card:hover{border-color:var(--blue);transform:translateY(-1px);box-shadow:0 4px 14px rgba(26,111,207,.12);}
+.card-name{font-size:14px;font-weight:700;color:var(--text);word-break:break-word;}
+.card-desc{font-size:11.5px;color:var(--muted);margin-top:5px;line-height:1.5;min-height:17px;}
+.card-foot{display:flex;align-items:center;justify-content:space-between;margin-top:10px;}
+.card-link{font-size:9.5px;color:var(--blue);font-weight:700;letter-spacing:.4px;text-transform:uppercase;}
+.card-repo{font-size:9.5px;color:var(--muted);}
+.card-repo:hover{color:var(--blue);}
+
+#empty{display:none;text-align:center;padding:60px 20px;color:var(--muted);font-size:13px;}
+
+footer{text-align:center;padding:20px;font-size:10px;color:var(--muted);border-top:1px solid var(--border);}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🦅 RAPTOR Hub</h1>
+  <p>Tutti i repository di Giorgiogoldoni — ogni link si apre in una nuova scheda</p>
+  <div class="toolbar">
+    <input type="text" id="search" placeholder="Cerca repository per nome o descrizione...">
+    <span id="count">— repository</span>
+    <span id="updated"></span>
+  </div>
+</header>
+
+<main>
+  <div class="grid" id="grid"></div>
+  <div id="empty">Nessun repository trovato.</div>
+</main>
+
+<footer>Elenco aggiornato automaticamente ogni notte via GitHub Actions · <a href="https://github.com/Giorgiogoldoni/hub" style="color:var(--muted)">repo hub</a></footer>
+
+<script>
+const DATA_URL = 'data/repos.json';
+
+function timeAgoIt(iso){
+  if(!iso) return '';
+  const d = new Date(iso);
+  return d.toLocaleDateString('it-IT', {day:'2-digit', month:'2-digit', year:'numeric'});
+}
+
+function render(repos){
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+  grid.innerHTML = '';
+  if(!repos.length){
+    empty.style.display = 'block';
+    return;
+  }
+  empty.style.display = 'none';
+  repos.forEach(r => {
+    const a = document.createElement('a');
+    a.className = 'card';
+    a.href = r.url;
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.innerHTML = `
+      <div class="card-name">${r.name}</div>
+      <div class="card-desc">${r.description || 'Nessuna descrizione'}</div>
+      <div class="card-foot">
+        <span class="card-link">Apri ↗</span>
+        <a class="card-repo" href="${r.repo_url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">codice</a>
+      </div>
+    `;
+    grid.appendChild(a);
+  });
+}
+
+let ALL_REPOS = [];
+
+async function load(){
+  try{
+    const res = await fetch(DATA_URL + '?t=' + Date.now());
+    const json = await res.json();
+    ALL_REPOS = (json.repos || []).sort((a,b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
+    document.getElementById('count').textContent = ALL_REPOS.length + ' repository';
+    document.getElementById('updated').textContent = json.generated_at ? ('agg. ' + timeAgoIt(json.generated_at)) : '';
+    render(ALL_REPOS);
+  }catch(e){
+    document.getElementById('grid').innerHTML = '<p style="color:var(--muted);font-size:12px;">Errore nel caricamento dell\\'elenco repository.</p>';
+    console.error(e);
+  }
+}
+
+document.getElementById('search').addEventListener('input', (e) => {
+  const q = e.target.value.trim().toLowerCase();
+  if(!q){ render(ALL_REPOS); return; }
+  const filtered = ALL_REPOS.filter(r =>
+    r.name.toLowerCase().includes(q) || (r.description || '').toLowerCase().includes(q)
+  );
+  render(filtered);
+});
+
+load();
+</script>
+
+</body>
+</html>
