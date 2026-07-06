@@ -105,7 +105,7 @@ async function load(){
     document.getElementById('updated').textContent = json.generated_at ? ('agg. ' + timeAgoIt(json.generated_at)) : '';
     render(ALL_REPOS);
   }catch(e){
-    document.getElementById('grid').innerHTML = '<p style="color:var(--muted);font-size:12px;">Errore nel caricamento dell\\'elenco repository.</p>';
+    document.getElementById('grid').innerHTML = '<p style="color:var(--muted);font-size:12px;">Errore nel caricamento dell\'elenco repository.</p>';
     console.error(e);
   }
 }
