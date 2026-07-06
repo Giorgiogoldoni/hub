@@ -1,0 +1,32 @@
+name: Aggiorna elenco repository
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # ogni notte alle 03:00 UTC (~05:00 ora italiana)
+  workflow_dispatch: {}     # trigger manuale dal tab Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Genera repos.json
+        run: python scripts/fetch_repos.py
+
+      - name: Commit e push se cambiato
+        run: |
+          git config user.name "raptor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/repos.json
+          git diff --quiet --cached || git commit -m "Aggiorna elenco repository [auto]"
+          git push
