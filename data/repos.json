@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T05:44:52.627369+00:00",
-  "total": 33,
+  "generated_at": "2026-07-12T06:08:02.053291+00:00",
+  "total": 34,
   "repos": [
     {
       "name": "bond",
@@ -56,7 +56,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-07-10T06:50:16Z"
+      "updated_at": "2026-07-11T05:44:57Z"
     },
     {
       "name": "min-finder",
@@ -73,6 +73,14 @@
       "repo_url": "https://github.com/Giorgiogoldoni/MONITOR",
       "has_pages": true,
       "updated_at": "2026-07-07T10:42:21Z"
+    },
+    {
+      "name": "pallladio",
+      "description": "analisi palladio ",
+      "url": "https://giorgiogoldoni.github.io/pallladio/",
+      "repo_url": "https://github.com/Giorgiogoldoni/pallladio",
+      "has_pages": true,
+      "updated_at": "2026-07-12T05:57:39Z"
     },
     {
       "name": "portafoglio",
@@ -104,7 +112,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-07-11T04:57:29Z"
+      "updated_at": "2026-07-12T05:20:51Z"
     },
     {
       "name": "raptor-alert",
@@ -264,7 +272,7 @@
       "url": "https://giorgiogoldoni.github.io/wheat/",
       "repo_url": "https://github.com/Giorgiogoldoni/wheat",
       "has_pages": true,
-      "updated_at": "2026-07-11T05:37:05Z"
+      "updated_at": "2026-07-11T16:54:47Z"
     }
   ]
 }
