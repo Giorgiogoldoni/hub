@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T06:09:41.496689+00:00",
-  "total": 38,
+  "generated_at": "2026-07-27T06:34:26.341563+00:00",
+  "total": 39,
   "repos": [
     {
       "name": "azionario",
@@ -64,7 +64,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-07-25T05:46:30Z"
+      "updated_at": "2026-07-26T06:09:53Z"
     },
     {
       "name": "microsoft",
@@ -80,7 +80,7 @@
       "url": "https://giorgiogoldoni.github.io/min-finder/",
       "repo_url": "https://github.com/Giorgiogoldoni/min-finder",
       "has_pages": true,
-      "updated_at": "2026-07-24T16:47:41Z"
+      "updated_at": "2026-07-27T05:53:30Z"
     },
     {
       "name": "MONITOR",
@@ -136,7 +136,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-07-26T05:32:48Z"
+      "updated_at": "2026-07-27T06:19:44Z"
     },
     {
       "name": "raptor-alert",
@@ -200,7 +200,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-scanner/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-scanner",
       "has_pages": true,
-      "updated_at": "2026-07-24T23:00:24Z"
+      "updated_at": "2026-07-27T04:45:54Z"
     },
     {
       "name": "raptor-settoriali",
@@ -289,6 +289,14 @@
       "repo_url": "https://github.com/Giorgiogoldoni/sugar",
       "has_pages": true,
       "updated_at": "2026-07-24T18:14:50Z"
+    },
+    {
+      "name": "supertematici",
+      "description": "esame etf tematici ",
+      "url": "https://giorgiogoldoni.github.io/supertematici/",
+      "repo_url": "https://github.com/Giorgiogoldoni/supertematici",
+      "has_pages": true,
+      "updated_at": "2026-07-27T06:20:08Z"
     },
     {
       "name": "trader",
