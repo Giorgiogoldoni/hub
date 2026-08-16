@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:43:21.464184+00:00",
+  "generated_at": "2026-08-16T03:51:34.582732+00:00",
   "total": 43,
   "repos": [
     {
@@ -80,7 +80,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-08-14T04:51:26Z"
+      "updated_at": "2026-08-15T03:43:28Z"
     },
     {
       "name": "iwmo",
@@ -96,7 +96,7 @@
       "url": "https://giorgiogoldoni.github.io/iwvl/",
       "repo_url": "https://github.com/Giorgiogoldoni/iwvl",
       "has_pages": true,
-      "updated_at": "2026-08-14T17:44:33Z"
+      "updated_at": "2026-08-15T17:11:24Z"
     },
     {
       "name": "microsoft",
@@ -168,7 +168,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-08-15T03:31:38Z"
+      "updated_at": "2026-08-16T03:41:08Z"
     },
     {
       "name": "raptor-alert",
@@ -216,7 +216,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-portafoglio/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-portafoglio",
       "has_pages": true,
-      "updated_at": "2026-08-14T16:13:37Z"
+      "updated_at": "2026-08-15T10:33:19Z"
     },
     {
       "name": "raptor-ranking",
@@ -328,7 +328,7 @@
       "url": "https://giorgiogoldoni.github.io/supertematici/",
       "repo_url": "https://github.com/Giorgiogoldoni/supertematici",
       "has_pages": true,
-      "updated_at": "2026-08-14T07:57:23Z"
+      "updated_at": "2026-08-15T07:26:49Z"
     },
     {
       "name": "trader",
