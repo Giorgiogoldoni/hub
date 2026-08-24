@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:53:50.144263+00:00",
+  "generated_at": "2026-08-24T03:57:42.972602+00:00",
   "total": 43,
   "repos": [
     {
@@ -80,7 +80,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-08-22T03:45:53Z"
+      "updated_at": "2026-08-23T03:54:07Z"
     },
     {
       "name": "iwmo",
@@ -96,7 +96,7 @@
       "url": "https://giorgiogoldoni.github.io/iwvl/",
       "repo_url": "https://github.com/Giorgiogoldoni/iwvl",
       "has_pages": true,
-      "updated_at": "2026-08-22T17:11:47Z"
+      "updated_at": "2026-08-23T17:11:20Z"
     },
     {
       "name": "microsoft",
@@ -112,7 +112,7 @@
       "url": "https://giorgiogoldoni.github.io/min-finder/",
       "repo_url": "https://github.com/Giorgiogoldoni/min-finder",
       "has_pages": true,
-      "updated_at": "2026-08-21T15:34:27Z"
+      "updated_at": "2026-08-24T03:04:37Z"
     },
     {
       "name": "MONITOR",
@@ -168,7 +168,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-08-23T03:42:56Z"
+      "updated_at": "2026-08-24T03:46:30Z"
     },
     {
       "name": "raptor-alert",
@@ -232,7 +232,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-scanner/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-scanner",
       "has_pages": true,
-      "updated_at": "2026-08-21T22:21:05Z"
+      "updated_at": "2026-08-24T02:31:12Z"
     },
     {
       "name": "raptor-settoriali",
