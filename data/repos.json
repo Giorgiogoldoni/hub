@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T07:37:47.596659+00:00",
+  "generated_at": "2026-10-18T07:53:29.523030+00:00",
   "total": 45,
   "repos": [
     {
@@ -40,7 +40,7 @@
       "url": "https://giorgiogoldoni.github.io/core/",
       "repo_url": "https://github.com/Giorgiogoldoni/core",
       "has_pages": true,
-      "updated_at": "2026-10-16T21:08:54Z"
+      "updated_at": "2026-10-18T05:09:54Z"
     },
     {
       "name": "core-backtest",
@@ -80,7 +80,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-10-16T08:00:08Z"
+      "updated_at": "2026-10-17T07:37:52Z"
     },
     {
       "name": "investing",
@@ -104,7 +104,7 @@
       "url": "https://giorgiogoldoni.github.io/iwvl/",
       "repo_url": "https://github.com/Giorgiogoldoni/iwvl",
       "has_pages": true,
-      "updated_at": "2026-10-16T19:45:07Z"
+      "updated_at": "2026-10-17T18:56:12Z"
     },
     {
       "name": "LGIM",
@@ -184,7 +184,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-10-17T07:21:44Z"
+      "updated_at": "2026-10-18T07:36:19Z"
     },
     {
       "name": "raptor-alert",
@@ -216,7 +216,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-leva/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-leva",
       "has_pages": true,
-      "updated_at": "2026-10-17T07:33:00Z"
+      "updated_at": "2026-10-17T07:55:22Z"
     },
     {
       "name": "raptor-one",
@@ -344,7 +344,7 @@
       "url": "https://giorgiogoldoni.github.io/supertematici/",
       "repo_url": "https://github.com/Giorgiogoldoni/supertematici",
       "has_pages": true,
-      "updated_at": "2026-10-16T11:43:12Z"
+      "updated_at": "2026-10-17T11:19:00Z"
     },
     {
       "name": "trader",
