@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:53:29.523030+00:00",
+  "generated_at": "2026-10-19T08:38:41.487803+00:00",
   "total": 45,
   "repos": [
     {
@@ -80,7 +80,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-10-17T07:37:52Z"
+      "updated_at": "2026-10-18T07:53:33Z"
     },
     {
       "name": "investing",
@@ -104,7 +104,7 @@
       "url": "https://giorgiogoldoni.github.io/iwvl/",
       "repo_url": "https://github.com/Giorgiogoldoni/iwvl",
       "has_pages": true,
-      "updated_at": "2026-10-17T18:56:12Z"
+      "updated_at": "2026-10-19T08:33:24Z"
     },
     {
       "name": "LGIM",
@@ -128,7 +128,7 @@
       "url": "https://giorgiogoldoni.github.io/min-finder/",
       "repo_url": "https://github.com/Giorgiogoldoni/min-finder",
       "has_pages": true,
-      "updated_at": "2026-10-16T18:38:50Z"
+      "updated_at": "2026-10-19T08:02:08Z"
     },
     {
       "name": "MONITOR",
@@ -184,7 +184,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-10-18T07:36:19Z"
+      "updated_at": "2026-10-19T05:31:45Z"
     },
     {
       "name": "raptor-alert",
@@ -232,7 +232,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-portafoglio/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-portafoglio",
       "has_pages": true,
-      "updated_at": "2026-10-16T18:56:01Z"
+      "updated_at": "2026-10-18T17:04:16Z"
     },
     {
       "name": "raptor-ranking",
@@ -248,7 +248,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-scanner/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-scanner",
       "has_pages": true,
-      "updated_at": "2026-10-17T00:10:19Z"
+      "updated_at": "2026-10-19T05:57:24Z"
     },
     {
       "name": "raptor-settoriali",
