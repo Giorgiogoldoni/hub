@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:22:43.017241+00:00",
+  "generated_at": "2026-10-24T07:58:38.182902+00:00",
   "total": 46,
   "repos": [
     {
@@ -8,7 +8,7 @@
       "url": "https://giorgiogoldoni.github.io/azionario/",
       "repo_url": "https://github.com/Giorgiogoldoni/azionario",
       "has_pages": true,
-      "updated_at": "2026-10-22T23:54:52Z"
+      "updated_at": "2026-10-23T23:48:28Z"
     },
     {
       "name": "bond",
@@ -16,7 +16,7 @@
       "url": "https://giorgiogoldoni.github.io/bond/",
       "repo_url": "https://github.com/Giorgiogoldoni/bond",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:14:10Z"
+      "updated_at": "2026-10-23T20:00:21Z"
     },
     {
       "name": "chart",
@@ -24,7 +24,7 @@
       "url": "https://giorgiogoldoni.github.io/chart/",
       "repo_url": "https://github.com/Giorgiogoldoni/chart",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:15:26Z"
+      "updated_at": "2026-10-23T20:01:52Z"
     },
     {
       "name": "compass",
@@ -32,7 +32,7 @@
       "url": "https://giorgiogoldoni.github.io/compass/",
       "repo_url": "https://github.com/Giorgiogoldoni/compass",
       "has_pages": true,
-      "updated_at": "2026-10-23T00:04:08Z"
+      "updated_at": "2026-10-23T23:55:14Z"
     },
     {
       "name": "core",
@@ -40,7 +40,7 @@
       "url": "https://giorgiogoldoni.github.io/core/",
       "repo_url": "https://github.com/Giorgiogoldoni/core",
       "has_pages": true,
-      "updated_at": "2026-10-23T07:12:11Z"
+      "updated_at": "2026-10-23T21:30:02Z"
     },
     {
       "name": "core-backtest",
@@ -56,7 +56,7 @@
       "url": "https://giorgiogoldoni.github.io/etp/",
       "repo_url": "https://github.com/Giorgiogoldoni/etp",
       "has_pages": true,
-      "updated_at": "2026-10-23T01:15:47Z"
+      "updated_at": "2026-10-24T01:24:38Z"
     },
     {
       "name": "FACTOR",
@@ -64,7 +64,7 @@
       "url": "https://giorgiogoldoni.github.io/FACTOR/",
       "repo_url": "https://github.com/Giorgiogoldoni/FACTOR",
       "has_pages": true,
-      "updated_at": "2026-10-23T00:26:53Z"
+      "updated_at": "2026-10-24T00:19:47Z"
     },
     {
       "name": "fixed",
@@ -72,7 +72,7 @@
       "url": "https://giorgiogoldoni.github.io/fixed/",
       "repo_url": "https://github.com/Giorgiogoldoni/fixed",
       "has_pages": true,
-      "updated_at": "2026-10-22T19:51:35Z"
+      "updated_at": "2026-10-23T19:55:42Z"
     },
     {
       "name": "hub",
@@ -80,7 +80,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-10-22T08:26:23Z"
+      "updated_at": "2026-10-23T08:22:47Z"
     },
     {
       "name": "investing",
@@ -88,7 +88,7 @@
       "url": "https://giorgiogoldoni.github.io/investing/",
       "repo_url": "https://github.com/Giorgiogoldoni/investing",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:44:12Z"
+      "updated_at": "2026-10-23T20:38:33Z"
     },
     {
       "name": "iwmo",
@@ -96,7 +96,7 @@
       "url": "https://giorgiogoldoni.github.io/iwmo/",
       "repo_url": "https://github.com/Giorgiogoldoni/iwmo",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:22:17Z"
+      "updated_at": "2026-10-23T20:10:35Z"
     },
     {
       "name": "iwvl",
@@ -104,7 +104,7 @@
       "url": "https://giorgiogoldoni.github.io/iwvl/",
       "repo_url": "https://github.com/Giorgiogoldoni/iwvl",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:20:07Z"
+      "updated_at": "2026-10-23T20:07:49Z"
     },
     {
       "name": "LGIM",
@@ -120,7 +120,7 @@
       "url": "https://giorgiogoldoni.github.io/microsoft/",
       "repo_url": "https://github.com/Giorgiogoldoni/microsoft",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:27:05Z"
+      "updated_at": "2026-10-23T20:15:54Z"
     },
     {
       "name": "min-finder",
@@ -128,7 +128,7 @@
       "url": "https://giorgiogoldoni.github.io/min-finder/",
       "repo_url": "https://github.com/Giorgiogoldoni/min-finder",
       "has_pages": true,
-      "updated_at": "2026-10-23T07:51:51Z"
+      "updated_at": "2026-10-23T18:54:17Z"
     },
     {
       "name": "MONITOR",
@@ -144,7 +144,7 @@
       "url": "https://giorgiogoldoni.github.io/oil/",
       "repo_url": "https://github.com/Giorgiogoldoni/oil",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:26:10Z"
+      "updated_at": "2026-10-23T20:13:48Z"
     },
     {
       "name": "pallladio",
@@ -152,7 +152,7 @@
       "url": "https://giorgiogoldoni.github.io/pallladio/",
       "repo_url": "https://github.com/Giorgiogoldoni/pallladio",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:21:10Z"
+      "updated_at": "2026-10-23T20:09:15Z"
     },
     {
       "name": "portafoglio",
@@ -160,7 +160,7 @@
       "url": "https://giorgiogoldoni.github.io/portafoglio/",
       "repo_url": "https://github.com/Giorgiogoldoni/portafoglio",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:14:15Z"
+      "updated_at": "2026-10-23T20:00:55Z"
     },
     {
       "name": "radar-eventicf",
@@ -184,7 +184,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-10-23T05:36:06Z"
+      "updated_at": "2026-10-24T06:42:44Z"
     },
     {
       "name": "raptor-alert",
@@ -192,7 +192,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-alert/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-alert",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:16:52Z"
+      "updated_at": "2026-10-23T20:03:55Z"
     },
     {
       "name": "raptor-commad",
@@ -208,7 +208,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-geografia/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-geografia",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:15:19Z"
+      "updated_at": "2026-10-23T20:02:01Z"
     },
     {
       "name": "raptor-leva",
@@ -216,7 +216,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-leva/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-leva",
       "has_pages": true,
-      "updated_at": "2026-10-22T19:44:31Z"
+      "updated_at": "2026-10-23T19:46:27Z"
     },
     {
       "name": "raptor-one",
@@ -224,7 +224,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-one/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-one",
       "has_pages": true,
-      "updated_at": "2026-10-22T19:47:30Z"
+      "updated_at": "2026-10-23T19:47:01Z"
     },
     {
       "name": "raptor-portafoglio",
@@ -232,7 +232,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-portafoglio/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-portafoglio",
       "has_pages": true,
-      "updated_at": "2026-10-22T19:58:19Z"
+      "updated_at": "2026-10-23T19:51:43Z"
     },
     {
       "name": "raptor-ranking",
@@ -240,7 +240,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-ranking/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-ranking",
       "has_pages": true,
-      "updated_at": "2026-10-22T18:29:55Z"
+      "updated_at": "2026-10-23T18:17:14Z"
     },
     {
       "name": "raptor-scanner",
@@ -248,7 +248,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-scanner/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-scanner",
       "has_pages": true,
-      "updated_at": "2026-10-23T05:56:17Z"
+      "updated_at": "2026-10-24T00:16:02Z"
     },
     {
       "name": "raptor-settoriali",
@@ -256,7 +256,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-settoriali/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-settoriali",
       "has_pages": true,
-      "updated_at": "2026-10-22T19:04:32Z"
+      "updated_at": "2026-10-23T18:54:32Z"
     },
     {
       "name": "raptor-signal",
@@ -264,7 +264,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-signal/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-signal",
       "has_pages": true,
-      "updated_at": "2026-10-23T01:19:54Z"
+      "updated_at": "2026-10-24T01:24:56Z"
     },
     {
       "name": "raptor-tematici",
@@ -272,7 +272,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-tematici/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-tematici",
       "has_pages": true,
-      "updated_at": "2026-10-22T17:54:15Z"
+      "updated_at": "2026-10-23T17:47:13Z"
     },
     {
       "name": "raptor-two",
@@ -280,7 +280,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-two/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-two",
       "has_pages": true,
-      "updated_at": "2026-10-22T21:35:33Z"
+      "updated_at": "2026-10-23T20:25:57Z"
     },
     {
       "name": "raptor-wealth-meridian",
@@ -288,7 +288,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-wealth-meridian/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-wealth-meridian",
       "has_pages": true,
-      "updated_at": "2026-10-22T22:51:24Z"
+      "updated_at": "2026-10-23T22:43:12Z"
     },
     {
       "name": "RAPTOR_SCENARIO_ENGINE",
@@ -296,7 +296,7 @@
       "url": "https://giorgiogoldoni.github.io/RAPTOR_SCENARIO_ENGINE/",
       "repo_url": "https://github.com/Giorgiogoldoni/RAPTOR_SCENARIO_ENGINE",
       "has_pages": true,
-      "updated_at": "2026-10-22T18:45:02Z"
+      "updated_at": "2026-10-23T18:11:14Z"
     },
     {
       "name": "scannerv2",
@@ -304,7 +304,7 @@
       "url": "https://giorgiogoldoni.github.io/scannerv2/",
       "repo_url": "https://github.com/Giorgiogoldoni/scannerv2",
       "has_pages": true,
-      "updated_at": "2026-10-23T00:50:04Z"
+      "updated_at": "2026-10-24T00:57:03Z"
     },
     {
       "name": "sniper",
@@ -312,7 +312,7 @@
       "url": "https://giorgiogoldoni.github.io/sniper/",
       "repo_url": "https://github.com/Giorgiogoldoni/sniper",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:14:11Z"
+      "updated_at": "2026-10-23T20:00:40Z"
     },
     {
       "name": "stoxx600",
@@ -320,7 +320,7 @@
       "url": "https://giorgiogoldoni.github.io/stoxx600/",
       "repo_url": "https://github.com/Giorgiogoldoni/stoxx600",
       "has_pages": true,
-      "updated_at": "2026-10-23T00:33:03Z"
+      "updated_at": "2026-10-24T00:28:20Z"
     },
     {
       "name": "strategy",
@@ -328,7 +328,7 @@
       "url": "https://giorgiogoldoni.github.io/strategy/",
       "repo_url": "https://github.com/Giorgiogoldoni/strategy",
       "has_pages": true,
-      "updated_at": "2026-10-23T00:22:42Z"
+      "updated_at": "2026-10-24T00:14:43Z"
     },
     {
       "name": "sugar",
@@ -336,7 +336,7 @@
       "url": "https://giorgiogoldoni.github.io/sugar/",
       "repo_url": "https://github.com/Giorgiogoldoni/sugar",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:22:30Z"
+      "updated_at": "2026-10-23T20:10:45Z"
     },
     {
       "name": "supertematici",
@@ -344,7 +344,7 @@
       "url": "https://giorgiogoldoni.github.io/supertematici/",
       "repo_url": "https://github.com/Giorgiogoldoni/supertematici",
       "has_pages": true,
-      "updated_at": "2026-10-22T12:12:22Z"
+      "updated_at": "2026-10-23T11:54:03Z"
     },
     {
       "name": "swing",
@@ -368,7 +368,7 @@
       "url": "https://giorgiogoldoni.github.io/wheat/",
       "repo_url": "https://github.com/Giorgiogoldoni/wheat",
       "has_pages": true,
-      "updated_at": "2026-10-22T20:25:01Z"
+      "updated_at": "2026-10-23T20:11:51Z"
     }
   ]
 }
