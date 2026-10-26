@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T08:14:26.170284+00:00",
+  "generated_at": "2026-10-26T08:41:17.681080+00:00",
   "total": 46,
   "repos": [
     {
@@ -80,7 +80,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-10-24T07:58:42Z"
+      "updated_at": "2026-10-25T08:14:30Z"
     },
     {
       "name": "investing",
@@ -128,7 +128,7 @@
       "url": "https://giorgiogoldoni.github.io/min-finder/",
       "repo_url": "https://github.com/Giorgiogoldoni/min-finder",
       "has_pages": true,
-      "updated_at": "2026-10-23T18:54:17Z"
+      "updated_at": "2026-10-26T08:02:35Z"
     },
     {
       "name": "MONITOR",
@@ -184,7 +184,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-10-25T07:57:22Z"
+      "updated_at": "2026-10-26T05:38:25Z"
     },
     {
       "name": "raptor-alert",
@@ -248,7 +248,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-scanner/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-scanner",
       "has_pages": true,
-      "updated_at": "2026-10-24T00:16:02Z"
+      "updated_at": "2026-10-26T05:58:07Z"
     },
     {
       "name": "raptor-settoriali",
@@ -352,7 +352,7 @@
       "url": "https://giorgiogoldoni.github.io/swing/",
       "repo_url": "https://github.com/Giorgiogoldoni/swing",
       "has_pages": true,
-      "updated_at": "2026-10-23T08:01:58Z"
+      "updated_at": "2026-10-26T08:22:51Z"
     },
     {
       "name": "trader",
