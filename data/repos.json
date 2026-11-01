@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:25:49.884958+00:00",
+  "generated_at": "2026-11-01T10:14:55.509186+00:00",
   "total": 48,
   "repos": [
     {
@@ -16,7 +16,7 @@
       "url": "https://giorgiogoldoni.github.io/big/",
       "repo_url": "https://github.com/Giorgiogoldoni/big",
       "has_pages": true,
-      "updated_at": "2026-10-29T12:00:42Z"
+      "updated_at": "2026-11-01T09:04:56Z"
     },
     {
       "name": "bond",
@@ -88,7 +88,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-10-30T09:46:13Z"
+      "updated_at": "2026-10-31T09:25:54Z"
     },
     {
       "name": "investing",
@@ -192,7 +192,7 @@
       "url": "https://giorgiogoldoni.github.io/radar-flux/",
       "repo_url": "https://github.com/Giorgiogoldoni/radar-flux",
       "has_pages": true,
-      "updated_at": "2026-04-25T16:21:27Z"
+      "updated_at": "2026-11-01T09:53:48Z"
     },
     {
       "name": "raptor",
@@ -200,7 +200,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-10-31T07:47:59Z"
+      "updated_at": "2026-11-01T09:28:54Z"
     },
     {
       "name": "raptor-alert",
@@ -264,7 +264,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor-scanner/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-scanner",
       "has_pages": true,
-      "updated_at": "2026-10-31T01:19:05Z"
+      "updated_at": "2026-10-31T16:15:38Z"
     },
     {
       "name": "raptor-settoriali",
@@ -360,7 +360,7 @@
       "url": "https://giorgiogoldoni.github.io/supertematici/",
       "repo_url": "https://github.com/Giorgiogoldoni/supertematici",
       "has_pages": true,
-      "updated_at": "2026-10-30T13:16:24Z"
+      "updated_at": "2026-10-31T13:15:11Z"
     },
     {
       "name": "swing",
