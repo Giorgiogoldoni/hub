@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T10:14:55.509186+00:00",
+  "generated_at": "2026-11-02T10:45:29.555546+00:00",
   "total": 48,
   "repos": [
     {
@@ -48,7 +48,7 @@
       "url": "https://giorgiogoldoni.github.io/core/",
       "repo_url": "https://github.com/Giorgiogoldoni/core",
       "has_pages": true,
-      "updated_at": "2026-10-30T22:26:21Z"
+      "updated_at": "2026-11-01T11:32:05Z"
     },
     {
       "name": "core-backtest",
@@ -56,7 +56,7 @@
       "url": "https://giorgiogoldoni.github.io/core-backtest/",
       "repo_url": "https://github.com/Giorgiogoldoni/core-backtest",
       "has_pages": true,
-      "updated_at": "2026-10-01T10:15:41Z"
+      "updated_at": "2026-11-01T10:39:59Z"
     },
     {
       "name": "etp",
@@ -88,7 +88,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-10-31T09:25:54Z"
+      "updated_at": "2026-11-01T10:14:59Z"
     },
     {
       "name": "investing",
@@ -136,7 +136,7 @@
       "url": "https://giorgiogoldoni.github.io/min-finder/",
       "repo_url": "https://github.com/Giorgiogoldoni/min-finder",
       "has_pages": true,
-      "updated_at": "2026-10-30T19:51:55Z"
+      "updated_at": "2026-11-02T09:51:10Z"
     },
     {
       "name": "moneyfarm-aggressivo",
@@ -192,7 +192,7 @@
       "url": "https://giorgiogoldoni.github.io/radar-flux/",
       "repo_url": "https://github.com/Giorgiogoldoni/radar-flux",
       "has_pages": true,
-      "updated_at": "2026-11-01T09:53:48Z"
+      "updated_at": "2026-11-02T06:55:21Z"
     },
     {
       "name": "raptor",
@@ -200,7 +200,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-11-01T09:28:54Z"
+      "updated_at": "2026-11-02T03:38:26Z"
     },
     {
       "name": "raptor-alert",
@@ -312,7 +312,7 @@
       "url": "https://giorgiogoldoni.github.io/RAPTOR_SCENARIO_ENGINE/",
       "repo_url": "https://github.com/Giorgiogoldoni/RAPTOR_SCENARIO_ENGINE",
       "has_pages": true,
-      "updated_at": "2026-10-30T19:03:35Z"
+      "updated_at": "2026-11-01T14:37:27Z"
     },
     {
       "name": "scannerv2",
