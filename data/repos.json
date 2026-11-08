@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:47:28.667457+00:00",
+  "generated_at": "2026-11-08T09:59:49.247457+00:00",
   "total": 49,
   "repos": [
     {
@@ -96,7 +96,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-11-06T10:37:03Z"
+      "updated_at": "2026-11-07T09:47:32Z"
     },
     {
       "name": "investing",
@@ -208,7 +208,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-11-07T09:27:40Z"
+      "updated_at": "2026-11-08T03:36:26Z"
     },
     {
       "name": "raptor-alert",
@@ -368,7 +368,7 @@
       "url": "https://giorgiogoldoni.github.io/supertematici/",
       "repo_url": "https://github.com/Giorgiogoldoni/supertematici",
       "has_pages": true,
-      "updated_at": "2026-11-06T14:29:01Z"
+      "updated_at": "2026-11-07T13:42:35Z"
     },
     {
       "name": "swing",
