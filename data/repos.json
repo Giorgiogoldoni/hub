@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:59:49.247457+00:00",
+  "generated_at": "2026-11-09T11:08:27.358469+00:00",
   "total": 49,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "description": "rotazione mercato",
       "url": "https://giorgiogoldoni.github.io/arrotation/",
       "repo_url": "https://github.com/Giorgiogoldoni/arrotation",
-      "has_pages": false,
-      "updated_at": "2026-11-06T06:38:07Z"
+      "has_pages": true,
+      "updated_at": "2026-11-08T15:46:28Z"
     },
     {
       "name": "azionario",
@@ -96,7 +96,7 @@
       "url": "https://giorgiogoldoni.github.io/hub/",
       "repo_url": "https://github.com/Giorgiogoldoni/hub",
       "has_pages": true,
-      "updated_at": "2026-11-07T09:47:32Z"
+      "updated_at": "2026-11-08T09:59:53Z"
     },
     {
       "name": "investing",
@@ -144,7 +144,7 @@
       "url": "https://giorgiogoldoni.github.io/min-finder/",
       "repo_url": "https://github.com/Giorgiogoldoni/min-finder",
       "has_pages": true,
-      "updated_at": "2026-11-06T20:42:52Z"
+      "updated_at": "2026-11-09T10:09:54Z"
     },
     {
       "name": "moneyfarm-aggressivo",
@@ -208,7 +208,7 @@
       "url": "https://giorgiogoldoni.github.io/raptor/",
       "repo_url": "https://github.com/Giorgiogoldoni/raptor",
       "has_pages": true,
-      "updated_at": "2026-11-08T03:36:26Z"
+      "updated_at": "2026-11-09T07:29:54Z"
     },
     {
       "name": "raptor-alert",
