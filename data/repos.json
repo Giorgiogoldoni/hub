@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T09:57:46.192945+00:00",
-  "total": 50,
+  "generated_at": "2026-11-15T07:05:54.008693+00:00",
+  "total": 51,
   "repos": [
     {
       "name": "arrotation",
@@ -385,6 +385,14 @@
       "repo_url": "https://github.com/Giorgiogoldoni/swing",
       "has_pages": true,
       "updated_at": "2026-11-12T02:21:45Z"
+    },
+    {
+      "name": "TAX-ETP-MANAGER",
+      "description": "gestione dinamica",
+      "url": "https://giorgiogoldoni.github.io/TAX-ETP-MANAGER/",
+      "repo_url": "https://github.com/Giorgiogoldoni/TAX-ETP-MANAGER",
+      "has_pages": true,
+      "updated_at": "2026-11-14T10:07:41Z"
     },
     {
       "name": "trader",
