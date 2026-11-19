@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:22:17.056697+00:00",
+  "generated_at": "2026-11-19T11:20:02.899082+00:00",
   "total": 52,
   "repos": [
     {
@@ -103,7 +103,7 @@
       "description": "miglioramento geografia",
       "url": "https://giorgiogoldoni.github.io/geografiachatgpt/",
       "repo_url": "https://github.com/Giorgiogoldoni/geografiachatgpt",
-      "has_pages": false,
+      "has_pages": true,
       "updated_at": "2026-11-18T10:16:03Z"
     },
     {
