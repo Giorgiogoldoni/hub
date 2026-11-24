@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T12:01:21.429098+00:00",
+  "generated_at": "2026-11-24T13:26:16.885123+00:00",
   "total": 53,
   "repos": [
     {
@@ -359,7 +359,7 @@
       "description": "etf leva ",
       "url": "https://giorgiogoldoni.github.io/sniperchatgpt/",
       "repo_url": "https://github.com/Giorgiogoldoni/sniperchatgpt",
-      "has_pages": false,
+      "has_pages": true,
       "updated_at": "2026-11-23T08:11:34Z"
     },
     {
