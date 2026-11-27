@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T12:04:47.617257+00:00",
-  "total": 53,
+  "generated_at": "2026-11-27T11:54:52.717548+00:00",
+  "total": 54,
   "repos": [
     {
       "name": "arrotation",
@@ -91,6 +91,14 @@
       "updated_at": "2026-11-12T03:44:28Z"
     },
     {
+      "name": "Factorchatgpt",
+      "description": "Analisi dinamica etf factor ",
+      "url": "https://giorgiogoldoni.github.io/Factorchatgpt/",
+      "repo_url": "https://github.com/Giorgiogoldoni/Factorchatgpt",
+      "has_pages": true,
+      "updated_at": "2026-11-27T05:47:24Z"
+    },
+    {
       "name": "fixed",
       "description": "esame etf",
       "url": "https://giorgiogoldoni.github.io/fixed/",
@@ -128,7 +136,7 @@
       "url": "https://giorgiogoldoni.github.io/iwmo/",
       "repo_url": "https://github.com/Giorgiogoldoni/iwmo",
       "has_pages": true,
-      "updated_at": "2026-11-12T00:15:47Z"
+      "updated_at": "2026-11-27T04:26:44Z"
     },
     {
       "name": "iwvl",
