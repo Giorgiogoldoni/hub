@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:54:52.717548+00:00",
+  "generated_at": "2026-11-28T11:29:27.744786+00:00",
   "total": 54,
   "repos": [
     {
@@ -49,6 +49,14 @@
       "repo_url": "https://github.com/Giorgiogoldoni/chart",
       "has_pages": true,
       "updated_at": "2026-11-11T23:53:59Z"
+    },
+    {
+      "name": "commandchatgpt",
+      "description": "raptor-commad",
+      "url": "https://giorgiogoldoni.github.io/commandchatgpt/",
+      "repo_url": "https://github.com/Giorgiogoldoni/commandchatgpt",
+      "has_pages": true,
+      "updated_at": "2026-11-27T19:21:31Z"
     },
     {
       "name": "compass",
@@ -241,14 +249,6 @@
       "repo_url": "https://github.com/Giorgiogoldoni/raptor-alert",
       "has_pages": true,
       "updated_at": "2026-11-12T17:03:19Z"
-    },
-    {
-      "name": "raptor-commad",
-      "description": "raptor-commad",
-      "url": "https://giorgiogoldoni.github.io/raptor-commad/",
-      "repo_url": "https://github.com/Giorgiogoldoni/raptor-commad",
-      "has_pages": true,
-      "updated_at": "2026-04-28T14:53:30Z"
     },
     {
       "name": "raptor-geografia",
